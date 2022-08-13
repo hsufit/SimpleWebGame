@@ -1,0 +1,29 @@
+#canvasShow {
+    border: 5px solid black;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    width: 64px;
+    height: 64px;
+}
+
+#canvasCorner {
+    border: 5px solid black;
+    position: absolute;
+    top: 25%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    width: 128px;
+    height: 128px;
+}
+
+#canvasOriginal {
+    border: 5px solid black;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 384px;
+    height: 256px;
+}
